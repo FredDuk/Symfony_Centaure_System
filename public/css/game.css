@@ -1,0 +1,27 @@
+#game {
+	border-collapse: collapse;
+}
+
+.case {
+    background-color: white;
+	border-style: solid;
+	height:50px;
+	width:50px;
+	float: left;
+}
+
+.player1 {
+	background-color: blue;
+}
+
+.player2 {
+	background-color: red;
+}
+
+.font-player1 {
+	color:blue;
+}
+
+.font-player2 {
+	color:red;
+}
